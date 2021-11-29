@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+@import url("./reset.scss");
+
+body {
+  background-image: url("./assets/images/blue-dotted-background-1.jpg");
+  background-repeat: repeat-x;
+  background-position: center;
+  background-size: cover;
+}
